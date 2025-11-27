@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Athanassiadis"
+    given-names: "Antonios"
+    orcid: "https://orcid.org/0009-0008-9963-0024"
+  - family-names: "Hendriks"
+    given-names: "Luke"
+    orcid: "https://orcid.org/0009-0000-0263-5980"
+  - family-names: "Schulthess"
+    given-names: "Ivo"
+    orcid: "https://orcid.org/0000-0002-5621-2462"
+title: "antoniosathanassiadis/luxeedsprototype: v0.1"
+version: 0.1
+doi: 10.5281/zenodo.17737426
+date-released: 2025-11-27
+url: "https://github.com/antoniosathanassiadis/luxeedsprototype"
